@@ -3,7 +3,7 @@ It is a core java game,based on Indian television show having best animation as 
 
 
 > **Note**
-> If you are a noob in programming world than must see project source code to inspire yourself because now a day 
+> IF you are a noob in programming world than must see project source code to inspire yourself because now a day 
 > i have experience of Solid Design Pattern and i usually break the code into small pieces and always try to write maximum 4-5 lines of  code in a function but in the starting of my programming carrer i had developed this project which contains around 5000+ lines of code without using functions except main function (Pffff).<br/>
 
 
