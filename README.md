@@ -15,7 +15,7 @@ This Project is Created by Rox Studio developer Just for Fun.
 + You have 7 Lifeline to give a Answer(Same as Provided on Television Show)
 + You will get unique question everytime
 + You have 30 second to give answer
-+ Your score is Stored to Database
++ Your score Is Stored to Database
 + You can use Practise zone for Practicing your General knowledge
 + You can watch your High Score
 
