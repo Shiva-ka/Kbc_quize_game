@@ -17,7 +17,7 @@ This Project is created by Rox Studio developer Just for Fun.
 + You have 30 second to give answer
 + Your score is Stored to Database
 + You can use Practise zone for Practicing your General knowledge
-+ You can watch your high Score
++ You can watch your High Score
 
 
 
