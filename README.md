@@ -3,22 +3,27 @@ It is a core java game,based on Indian television show having best animation as 
 <!--  -->
 
 > **Note**
+<<<<<<< HEAD
 > If you are a noob in programming world than must see project source code to inspire yourself because now a day 
 
 > I have experience of Solid Design Pattern and i usually break the code into small pieces and always try to write maximum 4-5 lines of  code in a function but in the starting of my programming carrer i had developed this project which contains around 5000+ lines of code without using functions except main function (Pffff).<br/>
+=======
+> IF you are a noob in programming world than must see project source code to inspire yourself because now a day 
+> i have Experience of Solid Design Pattern and i usually break the code into small pieces and always try to write maximum 4-5 lines of  code in a function but in the starting of my programming carrer i had developed this project which contains around 5000+ lines of code without using functions except main function (Pffff).<br/>
+>>>>>>> 746c230134c110522c0bebb2d46feaa2f0432cc6
 
 
 
-This project is created by Rox Studio developer Just for Fun.
+This Project is Created by Rox Studio developer Just for Fun.
 
 
 # Features
 + You have 7 Lifeline to give a Answer(Same as Provided on Television Show)
 + You will get unique question everytime
 + You have 30 second to give answer
-+ Your score is Stored to Database
++ Your score Is Stored to Database
 + You can use Practise zone for Practicing your General knowledge
-+ You can watch your high Score
++ You can watch your High Score
 
 
 
